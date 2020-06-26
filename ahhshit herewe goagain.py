@@ -1,9 +1,7 @@
 import requests
 import xlsxwriter
 import datetime
-import schedule
 import time
-from pprint import pprint
 
 workbk_out = xlsxwriter.Workbook("Wind.xlsx")
 sheet_out = workbk_out.add_worksheet()
@@ -63,3 +61,5 @@ while 1:
     else:
         workbk_out.close()
         quit()
+#this is a python code to collect the current wind speed of the selected area.
+#It also provides the amount of energy the wind turbine can generate in a hour at the given wind speed. 
