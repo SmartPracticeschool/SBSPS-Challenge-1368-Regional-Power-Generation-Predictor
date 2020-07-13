@@ -1,0 +1,8 @@
+current mode name change- real time wind mill power output
+prediction for next three days
+Limitations-
+doesnt hv calender facility- 
+manually enter the date and day- limited to app. solved on web app
+50 times request available - free api.
+it is assumed that 
+59% 
