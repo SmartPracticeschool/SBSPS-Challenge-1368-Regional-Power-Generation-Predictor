@@ -9,7 +9,7 @@ The code for the Mobile Application is present in the Folder "App_Final".
 
 
 The code for the Web Application is present on google drive as we faced issues while uploading 
-it on git; drive link: https://drive.google.com/drive/folders/1_1flHd93U0qnTB2hctdB3uswOTp50MfG?usp=sharing
+it on git; drive link: https://drive.google.com/drive/folders/1MLK1Gzy9Rr8zdnMj-qUk17rae9GYi1kZ?usp=sharing
 also we have uploaded the zip file containing all the code regarding our web app .
 
 
