@@ -8,7 +8,7 @@ The code for the Mobile Application is present in the Folder "App_Final".
 
 
 The code for the Web Application is present on google drive as we faced issues while uploading 
-it on git drive link: https://drive.google.com/drive/folders/1UoRhrDO8Zz8BaoCYBqOzVz6GGCAL6299?usp=sharing 
+it on git; drive link: https://drive.google.com/drive/folders/1UoRhrDO8Zz8BaoCYBqOzVz6GGCAL6299?usp=sharing 
 also we have uploaded the zip file containing all the code regarding our web app .
 
 
@@ -20,6 +20,8 @@ divided into small parts according to the tasks.)
 
 Mobile Application- 
   For the mobile app we are using kivy framework for creating the user interface.
+  
+  
 Web Application-
   For the web application we are using django for linking the backend while'
   the front end is written in html and css.
