@@ -32,4 +32,7 @@ Backend for both the applications is written in python3.
 
 
 Made for IBM Hack Challenge 2020
-By Yash Vishwakarma & Siddharth Kulkarni
+By
+
+
+Yash Vishwakarma & Siddharth Kulkarni
