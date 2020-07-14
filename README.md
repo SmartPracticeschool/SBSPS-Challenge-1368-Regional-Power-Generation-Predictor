@@ -2,6 +2,7 @@
 Regional-Power-Generation-Predictor                                                                                           
 Here you can find the source code for our mobile and Web application;
 
+Video Presentation: https://drive.google.com/file/d/1ixcptca8k8yZN8OPeSb6UJp6347gzvTK/view?usp=sharing
 
 
 The code for the Mobile Application is present in the Folder "App_Final".
