@@ -1,5 +1,12 @@
 # SBSPS-Challenge-1368-Regional-Power-Generation-Predictor
-Regional-Power-Generation-Predictor                                                                                           
+
+Application ID : SPS_CH_APL_20200002792
+
+Project ID :  SPS_PRO_992
+
+Team : Yash Vishwakarma & Siddharth Kulkarni 
+
+
 Here you can find the source code for our mobile and Web application;
 
 Video Presentation: https://drive.google.com/file/d/1ixcptca8k8yZN8OPeSb6UJp6347gzvTK/view?usp=sharing
